@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'PPmori';
+  src: url('/workspaces/Portfolio/fonts/PPMori-Regular.otf') format('otf'),
+       url('/workspaces/Portfolio/fonts/PPMori-SemiBold.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+    font-family: 'PPmori', sans-serif;
+}
